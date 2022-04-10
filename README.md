@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for a Data Science Job in the Blockchain ecosystem in France
+- 🔭 I’m currently looking for a Data Science Job 
 - ❗️ IMPORTANT: I realized +20 projects in Python and R during my Master Degree, I am currently cleaning them before publishing !
 
 - 🌱 I’m currently learning about Blockchain
