@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 - 🔭 I’m currently looking for a Data Science Job 
 - ❗️ IMPORTANT: I realized +20 projects in Python and R during my Master Degree, I am currently cleaning them before publishing !
